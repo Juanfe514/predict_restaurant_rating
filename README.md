@@ -1,7 +1,8 @@
-Predict restaurant rating based on comments
+###Predict restaurant rating based on comments
 Caroline Troude: cct65
 Juan Gonzales: jg2265
 Diego Carrasco: dbc86
+<br>
 
 What makes a restaurant successful? For restaurateurs, it is crucial to understand their business in order to improve their performance and increment their clientele. However, in the restaurant industry, making data driven decisions can be challenging. 
 
