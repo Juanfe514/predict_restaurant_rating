@@ -1,6 +1,6 @@
 ### Predict restaurant rating based on comments
 Caroline Troude: cct65
-Juan Gonzales: jg2265
+Juan Felipe Gonzalez: jg2265
 Diego Carrasco: dbc86
 
 
